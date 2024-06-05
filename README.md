@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
+### About me:
+
+- 👨‍💻 I am **Front-End Developer** and **IT Analyst**
+- 👀 Curently studying: **Javascript**.
+- 🔈  Listening to <b>⁠"Islands - Bear's Den"</b>.
 
  <div>
    <a href="https://github.com/godhok">
